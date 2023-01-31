@@ -1,0 +1,2 @@
+# PalletSkills_Trainings
+ training
